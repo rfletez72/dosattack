@@ -1,0 +1,9 @@
+{
+  "appService.zipIgnorePattern": [
+    "node_modules{,/**}",
+    ".vscode{,/**}"
+  ],  
+  "javascript.suggestionActions.enabled": false,
+  "appService.defaultWebAppToDeploy": "/subscriptions/d13b9870-890a-4cbf-8dc1-7b62c5ad3270/AppServices/subscriptions/d13b9870-890a-4cbf-8dc1-7b62c5ad3270/resourceGroups/rfletez/providers/Microsoft.Web/sites/kukipos1",
+  "appService.deploySubpath": "."
+}
